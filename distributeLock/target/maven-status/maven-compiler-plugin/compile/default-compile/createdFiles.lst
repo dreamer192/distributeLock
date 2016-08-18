@@ -1,0 +1,6 @@
+newRedisLock\RedisPoolConfig.class
+newRedisLock\RedisPoolUtil.class
+newRedisLock\RedisLockUtil.class
+newRedisLock\RedisLock.class
+newRedisLock\TestLock.class
+newRedisLock\TestLock$1.class
